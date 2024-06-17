@@ -1,0 +1,11 @@
+* {margin: 0; padding: 0;}
+.header {background-color: black; color: white; text-align: center;}
+.cat-container1, .cat-container2  { padding: 10px;}
+.cat-container1 img {width: 100%;}
+.cat-container1 img {height: 450px; width: 300px;padding: 10px;}
+.cat1, .cat2, .cat3 { display: flex; justify-content: center; }
+body { background-color: peachpuff;}
+.cat-container2 img {width: 100%;}
+.cat-container2 img {height: 450px; width: 300px;padding: 10px;}
+.cat-container2 {display: flex; justify-content: center;}
+
